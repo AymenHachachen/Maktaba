@@ -12,7 +12,7 @@
 
 By the end of this practical session, you will be able to:
 
-1. ✅ Understand the **MVVM (Model-View-ViewModel)** architecture pattern
+1. ✅ Understand the **MVVM (Model-View-ViewModel)** architecture patter
 2. ✅ Identify and explain the role of each layer in MVVM
 3. ✅ Create and manipulate **data models** in Kotlin
 4. ✅ Work with **repositories** for data management
