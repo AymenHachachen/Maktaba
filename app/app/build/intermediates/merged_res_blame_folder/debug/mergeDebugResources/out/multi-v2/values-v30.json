@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ElOuedUniv.maktaba.app-mergeDebugResources-47:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\TN TECH\\.gradle\\caches\\9.1.0\\transforms\\fcc3debc7daa72466c4824e095222723\\workspace\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.ElOuedUniv.maktaba.presentation.book.detail.BookDetailViewModel

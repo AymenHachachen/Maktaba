@@ -1,0 +1,490 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\a900e3f69aa39d25e77c662eaac51d00\workspace\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\dc1cbfe25c057993704f660893ae95d9\workspace\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.59.2] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\d7685cee9fa52032292070c24f90d956\workspace\transformed\hilt-android-2.59.2\AndroidManifest.xml:16:1-19:12
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\2e4957157de61f0b8478940c2be8bd28\workspace\transformed\coil-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\4fc6acf6187d78ebff58f5774d29c02a\workspace\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\722cd2f6b6976f028cea7fc65e79863f\workspace\transformed\navigation-compose-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5d1ed0c5f2d956bf8b455ea1aa8fe9f4\workspace\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\ff79066a25d116b588fb3c1dc7dedfb7\workspace\transformed\coil-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8b40342c27e6d3a3486bae13852fcd1d\workspace\transformed\datastore-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\59aaa5c5453c3f07b15cdd7fa77630b0\workspace\transformed\datastore-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\dd7b0ab5df270b49f2fb2d313c2292e4\workspace\transformed\datastore-preferences-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f080f081c0db7e0fc66c15bd8fa11d5f\workspace\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\7233c22511d75eabb75052cc38d121b9\workspace\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8469255406dd79060cdbb2483ed6363c\workspace\transformed\coil-base-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:2:1-20:12
+MERGED from [io.github.jan-tennert.supabase:postgrest-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f05e5d22a2ae0e64088ce030b28f154\workspace\transformed\postgrest-kt\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\119f709c8a8471628078ee7eb0a5d27e\workspace\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\4343af3a13858f8c393028fd99767876\workspace\transformed\navigation-common-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\04448d5b7c3fe7db13cfc3af0bc87339\workspace\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\fcc3debc7daa72466c4824e095222723\workspace\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\9a88db0cb7064dfabf5b6b0e42287106\workspace\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f415a138d0e7f5358e6894837962df8\workspace\transformed\auth-kt\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.browser:browser:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\617dfb93abe4087a3d8ad4cfddc1df1c\workspace\transformed\browser-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8580af4bd059e0751efcae620270407b\workspace\transformed\activity-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\e3a017a2b372f8282281f427b5b0482c\workspace\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\fa8771569d48b6ef02ccbfe754ea3e88\workspace\transformed\ui-tooling-data\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\ec72e3c343ed03dfe65b28fb9a542d27\workspace\transformed\ui-tooling-preview\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\15ee3d2a46fc2990fdee4ae4fc066b5a\workspace\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\2519ab4397c9e11b0f540c3d93189b5e\workspace\transformed\foundation-layout\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\eeb6202e5bd41b03db8906c8ee2afab4\workspace\transformed\animation-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\092557fedcde7d237ce4f1dea2a18a2d\workspace\transformed\animation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\c8fc4d26fff74502d5bee3cded72afc2\workspace\transformed\ui-util\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\fe9d726eeff2506d8a7e39773567f8ed\workspace\transformed\ui-unit\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\20fca7c5175bd467f795548a2742d22f\workspace\transformed\ui-text\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f1650ccb60503afa411a7cf66ce82aee\workspace\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\e6a9798a2bd685089da80f493d476b3d\workspace\transformed\ui-geometry\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\1cdcfa3cd344e06ae0f642f288001124\workspace\transformed\ui-test-manifest-1.9.0\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\50662220d333c41b0d302469c577bd85\workspace\transformed\activity-1.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\9d1325f58cf6d3995d391bdad34bbecc\workspace\transformed\activity-compose-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.github.jan-tennert.supabase:supabase-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\491522471bb13f225a8ceb3c93300410\workspace\transformed\supabase-kt\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\79314dfd48ac04ffbc80529b0e21ff56\workspace\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\b06b96da26cca74bd4febb25804f4e7a\workspace\transformed\runtime-annotation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\1255ed934e0040716fb4d2085c3760da\workspace\transformed\savedstate-ktx-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\15b6b7ffc35db54d7d1433fdff9d5335\workspace\transformed\savedstate\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\e862ed09e8791cd1813453912820248b\workspace\transformed\savedstate-compose\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\ccd28299d18c43de05a26bc221763ec4\workspace\transformed\runtime\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8dd627e4ac49d088b5069172e70cb1dc\workspace\transformed\runtime-saveable\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\d494c6c3b5767ef906cbb9a3dba236d5\workspace\transformed\lifecycle-runtime-compose\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\99da40787dd2a953a95cd5fe7dce9fcb\workspace\transformed\lifecycle-viewmodel-savedstate\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\00e762b61ed26347c5a571b97ee8038d\workspace\transformed\lifecycle-viewmodel-2.10.0\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\c64d040bd72744cc101c262a43d62c6c\workspace\transformed\lifecycle-viewmodel\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\ef9f6c043dc7b2dc1d8e3741b93b249b\workspace\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\cfb4d4c69a5c0067d38d65a7f3c132d0\workspace\transformed\lifecycle-livedata-core-ktx-2.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\30c2c4255f9c4e7ab11803ab5eee8f43\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\9de4d3db1cbe9941c2de2f5b13553a4c\workspace\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\89a42d0f69d8279be3d667d2377943c4\workspace\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\4ccfd90a4dde2aae93c9b2db30501c11\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\de0c7b9e0b106b5fcf639843ef6161c0\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\c99ef97b9412b13e8ea8be17923180c7\workspace\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\a2b05ec783ed01218d92998fa5c2f9e0\workspace\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\072fd01721e6e344f00e22f5777b5871\workspace\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\467ad2bfa7f0759d2512b28825ce117c\workspace\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\06ffacf065bf52c1e355d1d7a1d1e274\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\93b2ffbc0dfc7c43d0f4fcc2868ad4f6\workspace\transformed\lifecycle-runtime\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\87a6ece4e668f9215f580c1bdc5fc11b\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\a87bdda027a13f111fdbb48e1831ab96\workspace\transformed\lifecycle-livedata-core-2.10.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\711bccb281de1490bb6281b33e39ab60\workspace\transformed\lifecycle-livedata-2.10.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\01d983a8d544d8f7c6112d896b5a9bbb\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\4291ea386db57116d37a83d5b7908f9d\workspace\transformed\lifecycle-viewmodel-compose\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\b3b5c305069beeadeacc6841d447e211\workspace\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\db3aff8c30fd3e59b9ca615e98221202\workspace\transformed\ui-tooling\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\156f57fde019491437e1cf957fa368b6\workspace\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5687aea1e829e50083611c8f74c0a982\workspace\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5788bf51ce0a1876b5e31d5148724897\workspace\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:17:1-35:12
+MERGED from [com.russhwolf:multiplatform-settings-coroutines-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5d3b698d571bbfd787aaa1abba6cf9a3\workspace\transformed\multiplatform-settings-coroutines-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\2d602eecb13037644948be9e27a25584\workspace\transformed\multiplatform-settings-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8e800996e80d6dc57f9dd7e06d311e6e\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [co.touchlab:kermit-android-debug:2.1.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\9b3834966f7b6b5fb7c56a9e9c6e56f0\workspace\transformed\kermit-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\be3806c1b64d85bb9c815401af7a9387\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\641cc394e87154a86949527653747565\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\d11dd8da241d361b44f071ee91b9370b\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f1fed616d05b393974068c1b31e7eae5\workspace\transformed\startup-runtime-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\44387a529eaef479fd66edb29c52394b\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0e490fc366fefc2132ca1e88030ee191\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\32530c1a287a4471e3eeb5c051668dbd\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [co.touchlab:kermit-core-android-debug:2.1.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\b7783cc84c4f9a7b1ebe4f1758fc91fc\workspace\transformed\kermit-core-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.59.2] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\788cf16cca507f4ebbcd031a6ed45226\workspace\transformed\dagger-lint-aar-2.59.2\AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:7:5-28:19
+INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:8:5-18:19
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:8:5-18:19
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f415a138d0e7f5358e6894837962df8\workspace\transformed\auth-kt\AndroidManifest.xml:8:5-18:19
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f415a138d0e7f5358e6894837962df8\workspace\transformed\auth-kt\AndroidManifest.xml:8:5-18:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\1cdcfa3cd344e06ae0f642f288001124\workspace\transformed\ui-test-manifest-1.9.0\AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\1cdcfa3cd344e06ae0f642f288001124\workspace\transformed\ui-test-manifest-1.9.0\AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\06ffacf065bf52c1e355d1d7a1d1e274\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\06ffacf065bf52c1e355d1d7a1d1e274\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\01d983a8d544d8f7c6112d896b5a9bbb\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\01d983a8d544d8f7c6112d896b5a9bbb\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\db3aff8c30fd3e59b9ca615e98221202\workspace\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\db3aff8c30fd3e59b9ca615e98221202\workspace\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5788bf51ce0a1876b5e31d5148724897\workspace\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:23:5-33:19
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5788bf51ce0a1876b5e31d5148724897\workspace\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f1fed616d05b393974068c1b31e7eae5\workspace\transformed\startup-runtime-1.2.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f1fed616d05b393974068c1b31e7eae5\workspace\transformed\startup-runtime-1.2.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\44387a529eaef479fd66edb29c52394b\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\44387a529eaef479fd66edb29c52394b\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:16:9-45
+	android:dataExtractionRules
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:10:9-65
+	android:name
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:8:9-35
+activity#com.ElOuedUniv.maktaba.MainActivity
+ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:20:13-45
+	android:exported
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\a900e3f69aa39d25e77c662eaac51d00\workspace\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\a900e3f69aa39d25e77c662eaac51d00\workspace\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\dc1cbfe25c057993704f660893ae95d9\workspace\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\dc1cbfe25c057993704f660893ae95d9\workspace\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.59.2] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\d7685cee9fa52032292070c24f90d956\workspace\transformed\hilt-android-2.59.2\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.59.2] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\d7685cee9fa52032292070c24f90d956\workspace\transformed\hilt-android-2.59.2\AndroidManifest.xml:18:3-42
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\2e4957157de61f0b8478940c2be8bd28\workspace\transformed\coil-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\2e4957157de61f0b8478940c2be8bd28\workspace\transformed\coil-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\4fc6acf6187d78ebff58f5774d29c02a\workspace\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\4fc6acf6187d78ebff58f5774d29c02a\workspace\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\722cd2f6b6976f028cea7fc65e79863f\workspace\transformed\navigation-compose-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\722cd2f6b6976f028cea7fc65e79863f\workspace\transformed\navigation-compose-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5d1ed0c5f2d956bf8b455ea1aa8fe9f4\workspace\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5d1ed0c5f2d956bf8b455ea1aa8fe9f4\workspace\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\ff79066a25d116b588fb3c1dc7dedfb7\workspace\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\ff79066a25d116b588fb3c1dc7dedfb7\workspace\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8b40342c27e6d3a3486bae13852fcd1d\workspace\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8b40342c27e6d3a3486bae13852fcd1d\workspace\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\59aaa5c5453c3f07b15cdd7fa77630b0\workspace\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\59aaa5c5453c3f07b15cdd7fa77630b0\workspace\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\dd7b0ab5df270b49f2fb2d313c2292e4\workspace\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\dd7b0ab5df270b49f2fb2d313c2292e4\workspace\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f080f081c0db7e0fc66c15bd8fa11d5f\workspace\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f080f081c0db7e0fc66c15bd8fa11d5f\workspace\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\7233c22511d75eabb75052cc38d121b9\workspace\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\7233c22511d75eabb75052cc38d121b9\workspace\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8469255406dd79060cdbb2483ed6363c\workspace\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8469255406dd79060cdbb2483ed6363c\workspace\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:postgrest-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f05e5d22a2ae0e64088ce030b28f154\workspace\transformed\postgrest-kt\AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:postgrest-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f05e5d22a2ae0e64088ce030b28f154\workspace\transformed\postgrest-kt\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\119f709c8a8471628078ee7eb0a5d27e\workspace\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\119f709c8a8471628078ee7eb0a5d27e\workspace\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\4343af3a13858f8c393028fd99767876\workspace\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\4343af3a13858f8c393028fd99767876\workspace\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\04448d5b7c3fe7db13cfc3af0bc87339\workspace\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\04448d5b7c3fe7db13cfc3af0bc87339\workspace\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\fcc3debc7daa72466c4824e095222723\workspace\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\fcc3debc7daa72466c4824e095222723\workspace\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\9a88db0cb7064dfabf5b6b0e42287106\workspace\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\9a88db0cb7064dfabf5b6b0e42287106\workspace\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f415a138d0e7f5358e6894837962df8\workspace\transformed\auth-kt\AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f415a138d0e7f5358e6894837962df8\workspace\transformed\auth-kt\AndroidManifest.xml:6:5-44
+MERGED from [androidx.browser:browser:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\617dfb93abe4087a3d8ad4cfddc1df1c\workspace\transformed\browser-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\617dfb93abe4087a3d8ad4cfddc1df1c\workspace\transformed\browser-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8580af4bd059e0751efcae620270407b\workspace\transformed\activity-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8580af4bd059e0751efcae620270407b\workspace\transformed\activity-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\e3a017a2b372f8282281f427b5b0482c\workspace\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\e3a017a2b372f8282281f427b5b0482c\workspace\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\fa8771569d48b6ef02ccbfe754ea3e88\workspace\transformed\ui-tooling-data\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\fa8771569d48b6ef02ccbfe754ea3e88\workspace\transformed\ui-tooling-data\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\ec72e3c343ed03dfe65b28fb9a542d27\workspace\transformed\ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\ec72e3c343ed03dfe65b28fb9a542d27\workspace\transformed\ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\15ee3d2a46fc2990fdee4ae4fc066b5a\workspace\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\15ee3d2a46fc2990fdee4ae4fc066b5a\workspace\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\2519ab4397c9e11b0f540c3d93189b5e\workspace\transformed\foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\2519ab4397c9e11b0f540c3d93189b5e\workspace\transformed\foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\eeb6202e5bd41b03db8906c8ee2afab4\workspace\transformed\animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\eeb6202e5bd41b03db8906c8ee2afab4\workspace\transformed\animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\092557fedcde7d237ce4f1dea2a18a2d\workspace\transformed\animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\092557fedcde7d237ce4f1dea2a18a2d\workspace\transformed\animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\c8fc4d26fff74502d5bee3cded72afc2\workspace\transformed\ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\c8fc4d26fff74502d5bee3cded72afc2\workspace\transformed\ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\fe9d726eeff2506d8a7e39773567f8ed\workspace\transformed\ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\fe9d726eeff2506d8a7e39773567f8ed\workspace\transformed\ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\20fca7c5175bd467f795548a2742d22f\workspace\transformed\ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\20fca7c5175bd467f795548a2742d22f\workspace\transformed\ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f1650ccb60503afa411a7cf66ce82aee\workspace\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f1650ccb60503afa411a7cf66ce82aee\workspace\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\e6a9798a2bd685089da80f493d476b3d\workspace\transformed\ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\e6a9798a2bd685089da80f493d476b3d\workspace\transformed\ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\1cdcfa3cd344e06ae0f642f288001124\workspace\transformed\ui-test-manifest-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\1cdcfa3cd344e06ae0f642f288001124\workspace\transformed\ui-test-manifest-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\50662220d333c41b0d302469c577bd85\workspace\transformed\activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\50662220d333c41b0d302469c577bd85\workspace\transformed\activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\9d1325f58cf6d3995d391bdad34bbecc\workspace\transformed\activity-compose-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\9d1325f58cf6d3995d391bdad34bbecc\workspace\transformed\activity-compose-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:supabase-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\491522471bb13f225a8ceb3c93300410\workspace\transformed\supabase-kt\AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:supabase-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\491522471bb13f225a8ceb3c93300410\workspace\transformed\supabase-kt\AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\79314dfd48ac04ffbc80529b0e21ff56\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\79314dfd48ac04ffbc80529b0e21ff56\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\b06b96da26cca74bd4febb25804f4e7a\workspace\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\b06b96da26cca74bd4febb25804f4e7a\workspace\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\1255ed934e0040716fb4d2085c3760da\workspace\transformed\savedstate-ktx-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\1255ed934e0040716fb4d2085c3760da\workspace\transformed\savedstate-ktx-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\15b6b7ffc35db54d7d1433fdff9d5335\workspace\transformed\savedstate\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\15b6b7ffc35db54d7d1433fdff9d5335\workspace\transformed\savedstate\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\e862ed09e8791cd1813453912820248b\workspace\transformed\savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\e862ed09e8791cd1813453912820248b\workspace\transformed\savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\ccd28299d18c43de05a26bc221763ec4\workspace\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\ccd28299d18c43de05a26bc221763ec4\workspace\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8dd627e4ac49d088b5069172e70cb1dc\workspace\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8dd627e4ac49d088b5069172e70cb1dc\workspace\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\d494c6c3b5767ef906cbb9a3dba236d5\workspace\transformed\lifecycle-runtime-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\d494c6c3b5767ef906cbb9a3dba236d5\workspace\transformed\lifecycle-runtime-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\99da40787dd2a953a95cd5fe7dce9fcb\workspace\transformed\lifecycle-viewmodel-savedstate\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\99da40787dd2a953a95cd5fe7dce9fcb\workspace\transformed\lifecycle-viewmodel-savedstate\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\00e762b61ed26347c5a571b97ee8038d\workspace\transformed\lifecycle-viewmodel-2.10.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\00e762b61ed26347c5a571b97ee8038d\workspace\transformed\lifecycle-viewmodel-2.10.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\c64d040bd72744cc101c262a43d62c6c\workspace\transformed\lifecycle-viewmodel\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\c64d040bd72744cc101c262a43d62c6c\workspace\transformed\lifecycle-viewmodel\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\ef9f6c043dc7b2dc1d8e3741b93b249b\workspace\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\ef9f6c043dc7b2dc1d8e3741b93b249b\workspace\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\cfb4d4c69a5c0067d38d65a7f3c132d0\workspace\transformed\lifecycle-livedata-core-ktx-2.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\cfb4d4c69a5c0067d38d65a7f3c132d0\workspace\transformed\lifecycle-livedata-core-ktx-2.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\30c2c4255f9c4e7ab11803ab5eee8f43\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\30c2c4255f9c4e7ab11803ab5eee8f43\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\9de4d3db1cbe9941c2de2f5b13553a4c\workspace\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\9de4d3db1cbe9941c2de2f5b13553a4c\workspace\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\89a42d0f69d8279be3d667d2377943c4\workspace\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\89a42d0f69d8279be3d667d2377943c4\workspace\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\4ccfd90a4dde2aae93c9b2db30501c11\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\4ccfd90a4dde2aae93c9b2db30501c11\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\de0c7b9e0b106b5fcf639843ef6161c0\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\de0c7b9e0b106b5fcf639843ef6161c0\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\c99ef97b9412b13e8ea8be17923180c7\workspace\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\c99ef97b9412b13e8ea8be17923180c7\workspace\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\a2b05ec783ed01218d92998fa5c2f9e0\workspace\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\a2b05ec783ed01218d92998fa5c2f9e0\workspace\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\072fd01721e6e344f00e22f5777b5871\workspace\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\072fd01721e6e344f00e22f5777b5871\workspace\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\467ad2bfa7f0759d2512b28825ce117c\workspace\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\467ad2bfa7f0759d2512b28825ce117c\workspace\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\06ffacf065bf52c1e355d1d7a1d1e274\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\06ffacf065bf52c1e355d1d7a1d1e274\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\93b2ffbc0dfc7c43d0f4fcc2868ad4f6\workspace\transformed\lifecycle-runtime\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\93b2ffbc0dfc7c43d0f4fcc2868ad4f6\workspace\transformed\lifecycle-runtime\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\87a6ece4e668f9215f580c1bdc5fc11b\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\87a6ece4e668f9215f580c1bdc5fc11b\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\a87bdda027a13f111fdbb48e1831ab96\workspace\transformed\lifecycle-livedata-core-2.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\a87bdda027a13f111fdbb48e1831ab96\workspace\transformed\lifecycle-livedata-core-2.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\711bccb281de1490bb6281b33e39ab60\workspace\transformed\lifecycle-livedata-2.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\711bccb281de1490bb6281b33e39ab60\workspace\transformed\lifecycle-livedata-2.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\01d983a8d544d8f7c6112d896b5a9bbb\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\01d983a8d544d8f7c6112d896b5a9bbb\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\4291ea386db57116d37a83d5b7908f9d\workspace\transformed\lifecycle-viewmodel-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\4291ea386db57116d37a83d5b7908f9d\workspace\transformed\lifecycle-viewmodel-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\b3b5c305069beeadeacc6841d447e211\workspace\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\b3b5c305069beeadeacc6841d447e211\workspace\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\db3aff8c30fd3e59b9ca615e98221202\workspace\transformed\ui-tooling\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\db3aff8c30fd3e59b9ca615e98221202\workspace\transformed\ui-tooling\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\156f57fde019491437e1cf957fa368b6\workspace\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\156f57fde019491437e1cf957fa368b6\workspace\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5687aea1e829e50083611c8f74c0a982\workspace\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5687aea1e829e50083611c8f74c0a982\workspace\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5788bf51ce0a1876b5e31d5148724897\workspace\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:21:5-44
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5788bf51ce0a1876b5e31d5148724897\workspace\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:21:5-44
+MERGED from [com.russhwolf:multiplatform-settings-coroutines-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5d3b698d571bbfd787aaa1abba6cf9a3\workspace\transformed\multiplatform-settings-coroutines-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-coroutines-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5d3b698d571bbfd787aaa1abba6cf9a3\workspace\transformed\multiplatform-settings-coroutines-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\2d602eecb13037644948be9e27a25584\workspace\transformed\multiplatform-settings-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\2d602eecb13037644948be9e27a25584\workspace\transformed\multiplatform-settings-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8e800996e80d6dc57f9dd7e06d311e6e\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\8e800996e80d6dc57f9dd7e06d311e6e\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-android-debug:2.1.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\9b3834966f7b6b5fb7c56a9e9c6e56f0\workspace\transformed\kermit-debug\AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-android-debug:2.1.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\9b3834966f7b6b5fb7c56a9e9c6e56f0\workspace\transformed\kermit-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\be3806c1b64d85bb9c815401af7a9387\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\be3806c1b64d85bb9c815401af7a9387\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\641cc394e87154a86949527653747565\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\641cc394e87154a86949527653747565\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\d11dd8da241d361b44f071ee91b9370b\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\d11dd8da241d361b44f071ee91b9370b\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f1fed616d05b393974068c1b31e7eae5\workspace\transformed\startup-runtime-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f1fed616d05b393974068c1b31e7eae5\workspace\transformed\startup-runtime-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\44387a529eaef479fd66edb29c52394b\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\44387a529eaef479fd66edb29c52394b\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0e490fc366fefc2132ca1e88030ee191\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0e490fc366fefc2132ca1e88030ee191\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\32530c1a287a4471e3eeb5c051668dbd\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\32530c1a287a4471e3eeb5c051668dbd\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-core-android-debug:2.1.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\b7783cc84c4f9a7b1ebe4f1758fc91fc\workspace\transformed\kermit-core-debug\AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-core-android-debug:2.1.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\b7783cc84c4f9a7b1ebe4f1758fc91fc\workspace\transformed\kermit-core-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.59.2] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\788cf16cca507f4ebbcd031a6ed45226\workspace\transformed\dagger-lint-aar-2.59.2\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.59.2] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\788cf16cca507f4ebbcd031a6ed45226\workspace\transformed\dagger-lint-aar-2.59.2\AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TN TECH\StudioProjects\Maktaba\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:9:9-17:20
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f415a138d0e7f5358e6894837962df8\workspace\transformed\auth-kt\AndroidManifest.xml:9:9-17:20
+MERGED from [io.github.jan-tennert.supabase:auth-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f415a138d0e7f5358e6894837962df8\workspace\transformed\auth-kt\AndroidManifest.xml:9:9-17:20
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\06ffacf065bf52c1e355d1d7a1d1e274\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\06ffacf065bf52c1e355d1d7a1d1e274\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\01d983a8d544d8f7c6112d896b5a9bbb\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\01d983a8d544d8f7c6112d896b5a9bbb\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:24:9-32:20
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5788bf51ce0a1876b5e31d5148724897\workspace\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:24:9-32:20
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5788bf51ce0a1876b5e31d5148724897\workspace\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f1fed616d05b393974068c1b31e7eae5\workspace\transformed\startup-runtime-1.2.0\AndroidManifest.xml:24:9-28:34
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\f1fed616d05b393974068c1b31e7eae5\workspace\transformed\startup-runtime-1.2.0\AndroidManifest.xml:24:9-28:34
+	tools:node
+		ADDED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:13:13-31
+	android:authorities
+		ADDED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:11:13-68
+	android:exported
+		ADDED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:10:13-67
+meta-data#io.github.jan.supabase.storage.SupabaseInitializer
+ADDED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:14:13-16:52
+	android:value
+		ADDED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:16:17-49
+	android:name
+		ADDED from [io.github.jan-tennert.supabase:storage-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\baadd0be5345bd56e4c679e4e9b3233d\workspace\transformed\storage-kt\AndroidManifest.xml:15:17-82
+meta-data#io.github.jan.supabase.auth.SupabaseInitializer
+ADDED from [io.github.jan-tennert.supabase:auth-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f415a138d0e7f5358e6894837962df8\workspace\transformed\auth-kt\AndroidManifest.xml:14:13-16:52
+	android:value
+		ADDED from [io.github.jan-tennert.supabase:auth-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f415a138d0e7f5358e6894837962df8\workspace\transformed\auth-kt\AndroidManifest.xml:16:17-49
+	android:name
+		ADDED from [io.github.jan-tennert.supabase:auth-kt-android:3.5.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\0f415a138d0e7f5358e6894837962df8\workspace\transformed\auth-kt\AndroidManifest.xml:15:17-79
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\1cdcfa3cd344e06ae0f642f288001124\workspace\transformed\ui-test-manifest-1.9.0\AndroidManifest.xml:23:9-26:79
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\1cdcfa3cd344e06ae0f642f288001124\workspace\transformed\ui-test-manifest-1.9.0\AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\1cdcfa3cd344e06ae0f642f288001124\workspace\transformed\ui-test-manifest-1.9.0\AndroidManifest.xml:26:13-76
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\1cdcfa3cd344e06ae0f642f288001124\workspace\transformed\ui-test-manifest-1.9.0\AndroidManifest.xml:24:13-63
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\06ffacf065bf52c1e355d1d7a1d1e274\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\06ffacf065bf52c1e355d1d7a1d1e274\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\06ffacf065bf52c1e355d1d7a1d1e274\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.ElOuedUniv.maktaba.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.ElOuedUniv.maktaba.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\56537fe415502929fd13091be0903f55\workspace\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\01d983a8d544d8f7c6112d896b5a9bbb\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\01d983a8d544d8f7c6112d896b5a9bbb\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\01d983a8d544d8f7c6112d896b5a9bbb\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:30:17-78
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\db3aff8c30fd3e59b9ca615e98221202\workspace\transformed\ui-tooling\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\db3aff8c30fd3e59b9ca615e98221202\workspace\transformed\ui-tooling\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.9.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\db3aff8c30fd3e59b9ca615e98221202\workspace\transformed\ui-tooling\AndroidManifest.xml:24:13-71
+meta-data#com.russhwolf.settings.SettingsInitializer
+ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5788bf51ce0a1876b5e31d5148724897\workspace\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5788bf51ce0a1876b5e31d5148724897\workspace\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.3.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\5788bf51ce0a1876b5e31d5148724897\workspace\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:30:17-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\TN TECH\.gradle\caches\9.1.0\transforms\239905723b9c280b6aeaf9490483851c\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
