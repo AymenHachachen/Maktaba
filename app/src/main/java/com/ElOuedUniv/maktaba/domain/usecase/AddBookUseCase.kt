@@ -1,13 +1,14 @@
 package com.ElOuedUniv.maktaba.domain.usecase
 
+import android.net.Uri
 import com.ElOuedUniv.maktaba.data.model.Book
 import com.ElOuedUniv.maktaba.data.repository.BookRepository
-import kotlinx.coroutines.flow.Flow
+import javax.inject.Inject
 
-class GetBooksUseCase(
+class AddBookUseCase @Inject constructor(
     private val bookRepository: BookRepository
 ) {
-    operator fun invoke(): Flow<List<Book>> {
-        return bookRepository.getAllBooks()
+    suspend operator fun invoke(book: Book, imageUri: Uri?) {
+        bookRepository.addBook(book, imageUri)
     }
 }
